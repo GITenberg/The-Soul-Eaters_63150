@@ -1,0 +1,35 @@
+_repo: The-Soul-Eaters_63150
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ingels, Graham
+    birthdate: 1915
+    deathdate: 1991
+    gutenberg_agent_id: '51934'
+    url: http://www.gutenberg.org/2009/agents/51934
+    wikipedia: https://en.wikipedia.org/wiki/Graham_Ingels
+creator:
+  author:
+    agent_name: Conover, William
+    alias: Conover, William A.
+    gutenberg_agent_id: '52307'
+    url: http://www.gutenberg.org/2009/agents/52307
+description: ''
+gutenberg_issued: '2020-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Asteroids -- Fiction'
+- GITenberg
+title: The Soul Eaters
+url: http://www.gutenberg.org/ebooks/63150
